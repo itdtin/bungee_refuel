@@ -1,4 +1,4 @@
-# LayerZero bridges
+# Refuel
 ## Developed by [BenderRoyman](https://t.me/BenderRoyman)
 
 ## Prerequisites:
