@@ -4,6 +4,7 @@ from app.runner import Runner
 
 if __name__ == "__main__":
     path = pathlib.Path().resolve()
-    wallets_path = "wallets.txt"
+    path = path.joinpath("wallets.txt")
+    wallets_path = path.as_posix()
     runner = Runner(wallets_path)
     runner.do_work()
