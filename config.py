@@ -34,27 +34,21 @@ REFUEL_FANTOM: str = "0x040993fbF458b95871Cd2D73Ee2E09F4AF6d56bB"
 # Networks
 ARBITRUM_RPC: str = "https://arb-mainnet.g.alchemy.com/v2/aFjqA3mR0fMDkPR8lMF2QnjNQPNi9Jcm"
 ARBITRUM_CHAIN_ID: int = 42161
-ARBITRUM_LZ_CHAIN_ID: int = 110
 
 OPTIMISM_RPC: str = "https://opt-mainnet.g.alchemy.com/v2/0K6bMED4RlCn2DPr8tKQS8XTRMcUDKFR"
 OPTIMISM_CHAIN_ID: int = 10
-OPTIMISM_LZ_CHAIN_ID: int = 111
 
 POLYGON_RPC: str = "https://polygon-mainnet.g.alchemy.com/v2/ncSSy-j4i1T3hcN5hFCtEsyghpLCw_0p"
 POLYGON_CHAIN_ID: int = 137
-POLYGON_LZ_CHAIN_ID: int = 109
 
 AVALANCHE_RPC: str = "https://avalanche-mainnet.infura.io/v3/ca0d7f3c70f84e22ab29e5a74b329a3a"
 AVALNCHE_CHAIN_ID: int = 43114
-AVALANCHE_LZ_CHAIN_ID: int = 106
 
 BSC_RPC: str = "https://bsc-dataseed4.binance.org"
 BSC_CHAIN_ID: int = 56
-BSC_LZ_CHAIN_ID: int = 102
 
 FANTOM_RPC: str = "https://rpc.ankr.com/fantom"
 FANTOM_CHAIN_ID: int = 250
-FANTOM_LZ_CHAIN_ID: int = 112
 
 
 NETWORKS = {
